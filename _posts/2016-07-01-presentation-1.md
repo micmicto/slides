@@ -5,13 +5,13 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title: A ver Mariana...
-   slide-data: 
+   slide-data: ñañañaña
      
  - title: Ya te pones a trabajar...?
-   slide-data: 
+   slide-data: lalalala
 
  - title: Te la pasas chacoteando
-   slide-data: 
+   slide-data: joujoujoujou
   
 ---
 
