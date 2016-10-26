@@ -4,13 +4,13 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: Slide 1
+ - title: 1
    slide-data: This is first slide
      
- - title: Slide 2
+ - title: 2
    slide-data: This is second slide
 
- - title: Slide 3
+ - title: 3
    slide-data: This is third slide
   
 ---
