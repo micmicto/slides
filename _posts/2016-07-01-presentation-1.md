@@ -5,13 +5,13 @@ permalink: /presentation-1/
 background: '#0a5'
 slides:
  - title: 1
-   slide-data: This is first slide
+   slide-data: A ver Mariana...
      
  - title: 2
-   slide-data: This is second slide
+   slide-data: Ya te pones a trabajar...?
 
  - title: 3
-   slide-data: This is third slide
+   slide-data: Te la pasas chacoteando
   
 ---
 
