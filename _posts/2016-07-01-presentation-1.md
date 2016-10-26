@@ -4,14 +4,14 @@ layout: post
 permalink: /presentation-1/
 background: '#0a5'
 slides:
- - title: 1
-   slide-data: A ver Mariana...
+ - title: A ver Mariana...
+   slide-data: 
      
- - title: 2
-   slide-data: Ya te pones a trabajar...?
+ - title: Ya te pones a trabajar...?
+   slide-data: 
 
- - title: 3
-   slide-data: Te la pasas chacoteando
+ - title: Te la pasas chacoteando
+   slide-data: 
   
 ---
 
