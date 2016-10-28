@@ -13,8 +13,8 @@ slides:
    slide-data: Movimiento social
    background: '#f1c40f'
    
- - title: Slide 3
-   slide-data: This is third slide
+ - title: Código abierto
+   slide-data: Metodología de desarrollo
    background: '#9b59b6'
    
  - title: Slide 4
