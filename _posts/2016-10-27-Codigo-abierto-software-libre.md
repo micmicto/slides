@@ -9,8 +9,9 @@ slides:
    slide-data: Micmic
    background: "#e74c3c"
      
- - title: Slide 2
-   slide-data: This is second slide
+ - title: Software libre
+   slide-data: Movimiento social
+   Libertad para ejecutar, copiar, distribuir, estudiar, modificar y mejorar el software
    background: '#f1c40f'
    
  - title: Slide 3
