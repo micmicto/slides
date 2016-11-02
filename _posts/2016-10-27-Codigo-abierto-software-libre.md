@@ -8,15 +8,15 @@ slides:
  - title: Código abierto VS Software libre
    slide-data: Micmic
    background: "#e74c3c"
-     
- - title: Software libre
-   slide-data: Movimiento social
-   background: '#f1c40f'
-   
+
  - title: Código abierto
    slide-data: Metodología de desarrollo
    background: '#9b59b6'
-   
+
+ - title: Software libre
+   slide-data: Movimiento social
+   background: '#f1c40f'
+    
  - title: Slide 4
    slide-data: This is fourth slide
    background: '#3498db'
