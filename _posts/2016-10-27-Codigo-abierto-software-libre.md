@@ -17,8 +17,8 @@ slides:
    slide-data: Movimiento social
    background: '#f1c40f'
     
- - title: Slide 4
-   slide-data: This is fourth slide
+ - title: Libertad
+   slide-data:  Ejecutar, copiar, distribuir, estudiar, modificar y mejorar
    background: '#3498db'
    
  - title: Slide 5
