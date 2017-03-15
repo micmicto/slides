@@ -14,20 +14,10 @@ permalink: /super-encuadres/
     </ul>
 </section>
 
-<section>
-    <h2>Hello There</h2>
-    <p>
-        reveal.js enables you to create beautiful interactive slide decks using HTML. This presentation will show you examples of what it can do.
-    </p>
-</section>
-
 <!-- Example of nested vertical slides -->
 <section>
-    <section>
-        <h2>Vertical Slides</h2>
-        <p>Slides can be nested inside of each other.</p>
-        <p>Use the <em>Space</em> key to navigate through all slides.</p>
-        <br>
+    <section data-background="{{site.baseurl}}/images/h1.jpg">
+        <h2>Horizontal</h2>
         <a href="#" class="navigate-down">
             <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
         </a>
