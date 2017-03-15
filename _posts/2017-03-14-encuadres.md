@@ -16,22 +16,31 @@ permalink: /super-encuadres/
 
 <!-- Example of nested vertical slides -->
 <section>
-    <section data-background="{{site.baseurl}}/img/h1.jpg">
-        <h2>Horizontal</h2>
+    <section data-background="#dddddd">
+        <h2>Slide Backgrounds</h2>
+        <p>
+            Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
+        </p>
         <a href="#" class="navigate-down">
+            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
         </a>
     </section>
-    <section>
-        <h2>Basement Level 1</h2>
-        <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+    <section data-background="{{site.baseurl}}/images/sea.jpg">
+        <h2>Image Backgrounds</h2>
+        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
-    <section>
-        <h2>Basement Level 2</h2>
-        <p>That's it, time to go back up.</p>
-        <br>
-        <a href="#/2">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
-        </a>
+    <section data-background="{{site.baseurl}}/images/pattern.png" data-background-repeat="repeat" data-background-size="100px">
+        <h2>Tiled Backgrounds</h2>
+        <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
+    </section>
+    <section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000">
+        <div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
+            <h2>Video Backgrounds</h2>
+            <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
+        </div>
+    </section>
+    <section data-background="http://i.giphy.com/90F8aUepslB84.gif">
+        <h2>... and GIFs!</h2>
     </section>
 </section>
 
