@@ -5,8 +5,11 @@ permalink: /presentation-2/
 
  
 slides:
- - title: Slide 1
-   slide-data: This is first slide
+ - title: Encuadres
+   slide-data: Horizontal
+   Vertical
+   Picada
+   Contrapicada
    background: "#e74c3c"
      
  - title: Slide 2
