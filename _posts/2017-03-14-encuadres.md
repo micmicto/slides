@@ -17,30 +17,23 @@ permalink: /super-encuadres/
 <!-- Example of nested vertical slides -->
 <section>
     <section data-background="#dddddd">
-        <h2>Slide Backgrounds</h2>
-        <p>
-            Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
-        </p>
+        <h2>Horizontal</h2>
         <a href="#" class="navigate-down">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-        </a>
+         </a>
     </section>
     <section data-background="{{site.baseurl}}/images/h1.jpg">
-        <h2>Image Backgrounds</h2>
+        <h2>Paisajes</h2>
         <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
     <section data-background="{{site.baseurl}}/images/h2.jpg">
-        <h2>Tiled Backgrounds</h2>
+        <h2>Amplitud</h2>
         <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
-    <section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000">
-        <div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
-            <h2>Video Backgrounds</h2>
-            <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
-        </div>
+    <section data-background="{{site.baseurl}}/images/h3.jpg">
+        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
-    <section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-        <h2>... and GIFs!</h2>
+    <section data-background="{{site.baseurl}}/images/h4.jpg">
+        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
 </section>
 
