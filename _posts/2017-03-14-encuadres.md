@@ -120,8 +120,6 @@ permalink: /super-encuadres/
         <a href="#" class="navigate-down">
          </a>
     </section>
-    <section data-background="{{site.baseurl}}/images/ldi1.jpg">
-     </section>
     <section data-background="{{site.baseurl}}/images/ldi2.jpg">
     </section>
     <section data-background="{{site.baseurl}}/images/ldi3.jpg">
