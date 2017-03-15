@@ -1,15 +1,17 @@
 ---
-title: Demo
+title: Encuadres
 layout: post
-permalink: /demo/
+permalink: /super-encuadres/
 ---
 
 <section>
-    <h1>Reveal.js</h1>
-    <h3>The HTML Presentation Framework</h3>
-    <p>
-        <small>Created by <a href="http://hakim.se">Hakim El Hattab</a> / <a href="http://twitter.com/hakimel">@hakimel</a></small>
-    </p>
+    <h1>Encuadres</h1>
+    <ul>
+        <li>Horizontal</li>
+        <li>Vertical</li>
+        <li>Picada</li>
+        <li>Contrapicada</li>
+    </ul>
 </section>
 
 <section>
