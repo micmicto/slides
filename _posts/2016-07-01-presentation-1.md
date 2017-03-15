@@ -1,19 +1,17 @@
 ---
-title: Para Mariana
+title: Encuadres
 layout: post
 permalink: /presentation-1/
-background: '#0a5'
-slides:
- - title: A ver Mariana...
-   slide-data: ñañañaña
-     
- - title: Ya te pones a trabajar...?
-   slide-data: lalalala
 
- - title: Te la pasas chacoteando
-   slide-data: joujoujoujou
-  
----
+<section>
+ <ul>
+    <li>Horizontal</li>
+    <li>Vertical</li>
+    <li>Picada</li>
+    <li>Contrapicada</li>
+ </ul>
+</section>
+
 
 {% for slide in page.slides %}
                     
