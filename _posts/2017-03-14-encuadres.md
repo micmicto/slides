@@ -64,10 +64,6 @@ permalink: /super-encuadres/
     </section>
     <section data-background="{{site.baseurl}}/images/p2.jpg">
     </section>
-    <section data-background="{{site.baseurl}}/images/p3.jpg">
-    </section>
-    <section data-background="{{site.baseurl}}/images/p4.jpg">
-    </section>
 </section>
 
 <section>
@@ -82,23 +78,6 @@ permalink: /super-encuadres/
     </section>
     <section data-background="{{site.baseurl}}/images/c3.jpg">
     </section>
-    <section data-background="{{site.baseurl}}/images/c4.jpg">
-    </section>
-</section>
-
-
-
-<section id="transitions">
-    <h2>Transition Styles</h2>
-    <p>
-        You can select from different transitions, like: <br>
-        <a href="?transition=none#/transitions">None</a> -
-        <a href="?transition=fade#/transitions">Fade</a> -
-        <a href="?transition=slide#/transitions">Slide</a> -
-        <a href="?transition=convex#/transitions">Convex</a> -
-        <a href="?transition=concave#/transitions">Concave</a> -
-        <a href="?transition=zoom#/transitions">Zoom</a>
-    </p>
 </section>
 
 <section id="themes">
