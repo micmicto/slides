@@ -1,27 +1,42 @@
 ---
-title: Encuadres
+title: Presentation 2
 layout: post
-permalink: /presentacion1/
+permalink: /presentation1/
+
+ 
+slides:
+ - title: Encuadres
+ slide-data: <ul> <li>Horizontal</li>
+              </ul>
+   background: "#e74c3c"
+     
+ - title: Slide 2
+   slide-data: This is second slide
+   background: '#f1c40f'
+   
+ - title: Slide 3
+   slide-data: This is third slide
+   background: '#9b59b6'
+   
+ - title: Slide 4
+   slide-data: This is fourth slide
+   background: '#3498db'
+   
+ - title: Slide 5
+   slide-data: This is fifth slide
+   background: '#2ecc71'
+   
+ - title: Slide 6
+   slide-data: This is sixth slide
+   background: '#1abc9c'
+
+ - title: Slide 7
+   slide-data: This is seventh slide
+   background: '#e67e22'
 ---
-
-<section>
- <h1>Encuadres</h1>
- <ul>
-    <li>Horizontal</li>
-    <li>Vertical</li>
-    <li>Picada</li>
-    <li>Contrapicada</li>
- </ul>
-</section>
-
-<section data-background="{{site.baseurl}}/img/h1.jpg">
-<h2>Horizontal</h2>
-
-</section>
 
 {% for slide in page.slides %}
                     
 <section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}"><h1>{{slide.title}}</h1>{{ slide.slide-data }}</section>
                     
 {% endfor %}
-    
