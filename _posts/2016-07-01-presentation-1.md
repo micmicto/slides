@@ -5,6 +5,7 @@ permalink: /presentation-1/
 ---
 
 <section>
+ <h1>Encuadres</h1>
  <ul>
     <li>Horizontal</li>
     <li>Vertical</li>
@@ -13,6 +14,10 @@ permalink: /presentation-1/
  </ul>
 </section>
 
+<section>
+<h2>Horizontal</h2>
+
+</section>
 
 {% for slide in page.slides %}
                     
