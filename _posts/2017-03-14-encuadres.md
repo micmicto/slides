@@ -16,10 +16,9 @@ permalink: /super-encuadres/
 
 <!-- Example of nested vertical slides -->
 <section>
-    <section data-background="{{site.baseurl}}/images/h1.jpg">
+    <section data-background="{{site.baseurl}}/img/h1.jpg">
         <h2>Horizontal</h2>
         <a href="#" class="navigate-down">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
         </a>
     </section>
     <section>
