@@ -7,9 +7,6 @@ permalink: /presentation-2/
 slides:
  - title: Encuadres
    slide-data: Horizontal
-   Vertical
-   Picada
-   Contrapicada
    background: "#e74c3c"
      
  - title: Slide 2
