@@ -111,10 +111,7 @@ permalink: /super-encuadres/
     </section>
     <section data-background="{{site.baseurl}}/images/fr1.jpg">
      </section>
-    <section data-background="{{site.baseurl}}/images/fr2.jpg">
-    </section>
-    <section data-background="{{site.baseurl}}/images/fr3.jpg">
-    </section>
+
 </section>
 
 <section>
