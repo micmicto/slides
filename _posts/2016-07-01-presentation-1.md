@@ -2,6 +2,7 @@
 title: Encuadres
 layout: post
 permalink: /presentation-1/
+---
 
 <section>
  <ul>
