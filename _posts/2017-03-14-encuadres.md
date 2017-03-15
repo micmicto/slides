@@ -39,7 +39,8 @@ permalink: /super-encuadres/
         <a href="#" class="navigate-down">
          </a>
     </section>
-    <section data-background="{{site.baseurl}}/images/v1.jpg">
+    <section>
+        <img src="images/v1.jpg">
         <h2>Dinamismo</h2>
     </section>
     <section>
