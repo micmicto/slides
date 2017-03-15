@@ -43,7 +43,7 @@ permalink: /super-encuadres/
         <h2>Dinamismo</h2>
     </section>
     <section>
-        <img width="178" data-src="/images/v1.jpg">
+        <img width="178" data-src="images/v1.jpg">
     </section>
     <section data-background="{{site.baseurl}}/images/v3.jpg">
     </section>
