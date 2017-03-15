@@ -34,10 +34,20 @@ permalink: /super-encuadres/
 </section>
 
 <section>
-    <h2>Slides</h2>
-    <p>
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="http://slides.com" target="_blank">http://slides.com</a>.
-    </p>
+    <section>
+        <h2>Vertical</h2>
+        <a href="#" class="navigate-down">
+         </a>
+    </section>
+    <section data-background="{{site.baseurl}}/images/v1.jpg">
+        <h2>Dinamismo</h2>
+    </section>
+    <section data-background="{{site.baseurl}}/images/v2.jpg">
+    </section>
+    <section data-background="{{site.baseurl}}/images/v3.jpg">
+    </section>
+    <section data-background="{{site.baseurl}}/images/v4.jpg">
+    </section>
 </section>
 
 <section>
