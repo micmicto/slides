@@ -61,10 +61,8 @@ permalink: /super-encuadres/
          </a>
     </section>
     <section data-background="{{site.baseurl}}/images/p1.jpg">
-        <h2>Paisajes</h2>
     </section>
     <section data-background="{{site.baseurl}}/images/p2.jpg">
-        <h2>Amplitud</h2>
     </section>
     <section data-background="{{site.baseurl}}/images/p3.jpg">
     </section>
@@ -79,10 +77,8 @@ permalink: /super-encuadres/
          </a>
     </section>
     <section data-background="{{site.baseurl}}/images/c1.jpg">
-        <h2>Paisajes</h2>
-    </section>
+     </section>
     <section data-background="{{site.baseurl}}/images/c2.jpg">
-        <h2>Amplitud</h2>
     </section>
     <section data-background="{{site.baseurl}}/images/c3.jpg">
     </section>
