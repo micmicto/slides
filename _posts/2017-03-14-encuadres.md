@@ -80,61 +80,10 @@ permalink: /super-encuadres/
     </section>
 </section>
 
-<section id="themes">
-    <h2>Themes</h2>
-    <p>
-        reveal.js comes with a few themes built in: <br>
-        <!-- Hacks to swap themes after the page has loaded. Not flexible and only intended for the reveal.js demo deck. -->
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/black.css'); return false;">Black (default)</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/white.css'); return false;">White</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/league.css'); return false;">League</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/sky.css'); return false;">Sky</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/beige.css'); return false;">Beige</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/simple.css'); return false;">Simple</a> <br>
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/serif.css'); return false;">Serif</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/blood.css'); return false;">Blood</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/night.css'); return false;">Night</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/moon.css'); return false;">Moon</a> -
-        <a href="#" onclick="document.getElementById('theme').setAttribute('href','css/theme/solarized.css'); return false;">Solarized</a>
-    </p>
-</section>
-
 <section>
-    <section data-background="#dddddd">
-        <h2>Slide Backgrounds</h2>
-        <p>
-            Set <code>data-background="#dddddd"</code> on a slide to change the background color. All CSS color formats are supported.
-        </p>
-        <a href="#" class="navigate-down">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-        </a>
-    </section>
-    <section data-background="{{site.baseurl}}/images/sea.jpg">
-        <h2>Image Backgrounds</h2>
-        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
-    </section>
-    <section data-background="{{site.baseurl}}/images/pattern.png" data-background-repeat="repeat" data-background-size="100px">
-        <h2>Tiled Backgrounds</h2>
-        <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background="image.png" data-background-repeat="repeat" data-background-size="100px"&gt;</code></pre>
-    </section>
-    <section data-background-video="https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.mp4,https://s3.amazonaws.com/static.slid.es/site/homepage/v1/homepage-video-editor.webm" data-background-color="#000000">
-        <div style="background-color: rgba(0, 0, 0, 0.9); color: #fff; padding: 20px;">
-            <h2>Video Backgrounds</h2>
-            <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-video="video.mp4,video.webm"&gt;</code></pre>
-        </div>
-    </section>
-    <section data-background="http://i.giphy.com/90F8aUepslB84.gif">
-        <h2>... and GIFs!</h2>
-    </section>
+    <h1>Luz</h1>
 </section>
 
-<section data-transition="slide" data-background="#4d7e65" data-background-transition="zoom">
-    <h2>Background Transitions</h2>
-    <p>
-        Different background transitions are available via the backgroundTransition option. This one's called "zoom".
-    </p>
-    <pre><code class="hljs">Reveal.configure({ backgroundTransition: 'zoom' })</code></pre>
-</section>
 
 <section data-transition="slide" data-background="#b5533c" data-background-transition="zoom">
     <h2>Background Transitions</h2>
@@ -144,95 +93,6 @@ permalink: /super-encuadres/
     <pre><code class="hljs" style="word-wrap: break-word;">&lt;section data-background-transition="zoom"&gt;</code></pre>
 </section>
 
-<section>
-    <h2>Pretty Code</h2>
-    <pre><code class="hljs" data-trim contenteditable>
-function linkify( selector ) {
-if( supports3DTransforms ) {
-
-var nodes = document.querySelectorAll( selector );
-
-for( var i = 0, len = nodes.length; i &lt; len; i++ ) {
-var node = nodes[i];
-
-if( !node.className ) {
-node.className += ' roll';
-}
-}
-}
-}
-    </code></pre>
-    <p>Code syntax highlighting courtesy of <a href="http://softwaremaniacs.org/soft/highlight/en/description/">highlight.js</a>.</p>
-</section>
-
-<section>
-    <h2>Marvelous List</h2>
-    <ul>
-        <li>No order here</li>
-        <li>Or here</li>
-        <li>Or here</li>
-        <li>Or here</li>
-    </ul>
-</section>
-
-<section>
-    <h2>Fantastic Ordered List</h2>
-    <ol>
-        <li>One is smaller than...</li>
-        <li>Two is smaller than...</li>
-        <li>Three!</li>
-    </ol>
-</section>
-
-<section>
-    <h2>Tabular Tables</h2>
-    <table>
-        <thead>
-            <tr>
-                <th>Item</th>
-                <th>Value</th>
-                <th>Quantity</th>
-            </tr>
-        </thead>
-        <tbody>
-            <tr>
-                <td>Apples</td>
-                <td>$1</td>
-                <td>7</td>
-            </tr>
-            <tr>
-                <td>Lemonade</td>
-                <td>$2</td>
-                <td>18</td>
-            </tr>
-            <tr>
-                <td>Bread</td>
-                <td>$3</td>
-                <td>2</td>
-            </tr>
-        </tbody>
-    </table>
-</section>
-
-<section>
-    <h2>Clever Quotes</h2>
-    <p>
-        These guys come in two forms, inline: <q cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-        &ldquo;The nice thing about standards is that there are so many to choose from&rdquo;</q> and block:
-    </p>
-    <blockquote cite="http://searchservervirtualization.techtarget.com/definition/Our-Favorite-Technology-Quotations">
-        &ldquo;For years there has been a theory that millions of monkeys typing at random on millions of typewriters would
-        reproduce the entire works of Shakespeare. The Internet has proven this theory to be untrue.&rdquo;
-    </blockquote>
-</section>
-
-<section>
-    <h2>Intergalactic Interconnections</h2>
-    <p>
-        You can link between slides internally,
-        <a href="#/2/3">like this</a>.
-    </p>
-</section>
 
 <section>
     <h2>Speaker View</h2>
@@ -297,3 +157,5 @@ console.log( '"customevent" has fired' );
     </p>
 </section>
 
+<section data-background="{{site.baseurl}}/images/giphy.gif">
+</section>
