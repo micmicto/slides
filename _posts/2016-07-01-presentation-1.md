@@ -14,7 +14,7 @@ permalink: /presentation-1/
  </ul>
 </section>
 
-<section>
+<section data-background="img/h1.jpg">
 <h2>Horizontal</h2>
 
 </section>
