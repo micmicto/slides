@@ -136,8 +136,6 @@ permalink: /super-encuadres/
      </section>
     <section data-background="{{site.baseurl}}/images/cl2.jpg">
     </section>
-    <section data-background="{{site.baseurl}}/images/cl3.jpg">
-    </section>
 </section>
 
 <section data-background="{{site.baseurl}}/images/giphy.gif">
