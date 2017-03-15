@@ -1,7 +1,7 @@
 ---
 title: Encuadres
 layout: post
-permalink: /Encuadres/
+permalink: /presentacion1/
 ---
 
 <section>
