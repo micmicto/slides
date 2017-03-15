@@ -105,6 +105,20 @@ permalink: /super-encuadres/
 
 <section>
     <section>
+        <h2>Flash de relleno</h2>
+        <a href="#" class="navigate-down">
+         </a>
+    </section>
+    <section data-background="{{site.baseurl}}/images/fr1.jpg">
+     </section>
+    <section data-background="{{site.baseurl}}/images/fr2.jpg">
+    </section>
+    <section data-background="{{site.baseurl}}/images/fr3.jpg">
+    </section>
+</section>
+
+<section>
+    <section>
         <h2>Difuminada</h2>
         <a href="#" class="navigate-down">
          </a>
