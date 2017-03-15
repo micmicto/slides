@@ -16,24 +16,20 @@ permalink: /super-encuadres/
 
 <!-- Example of nested vertical slides -->
 <section>
-    <section data-background="#dddddd">
+    <section>
         <h2>Horizontal</h2>
         <a href="#" class="navigate-down">
          </a>
     </section>
     <section data-background="{{site.baseurl}}/images/h1.jpg">
         <h2>Paisajes</h2>
-        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
     <section data-background="{{site.baseurl}}/images/h2.jpg">
         <h2>Amplitud</h2>
-        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
     <section data-background="{{site.baseurl}}/images/h3.jpg">
-        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
     <section data-background="{{site.baseurl}}/images/h4.jpg">
-        <pre><code class="hljs">&lt;section data-background="image.png"&gt;</code></pre>
     </section>
 </section>
 
