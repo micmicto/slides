@@ -42,13 +42,15 @@ permalink: /super-encuadres/
     <section>
         <h2>Dinamismo</h2>
         <img src="{{site.baseurl}}/images/v1.jpg" height="600">
-        </section>
+    </section>
     <section>
-        <img width="178" data-src="images/v1.jpg">
+        <img src="{{site.baseurl}}/images/v2.jpg" height="600">
     </section>
-    <section data-background="{{site.baseurl}}/images/v3.jpg">
+    <section>
+        <img src="{{site.baseurl}}/images/v3.jpg" height="600">
     </section>
-    <section data-background="{{site.baseurl}}/images/v4.jpg">
+    <section>
+        <img src="{{site.baseurl}}/images/v4.jpg" height="600">
     </section>
 </section>
 
