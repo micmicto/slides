@@ -20,9 +20,9 @@ Epígrafe.
 
 ---
 
-Tomar muchas muchas fotografías para después escoger la mejor :sunglasses:
-Pedir permiso a la gente para tomarle fotos :sweat_smile:
-Epígrafes cortitos :scissors:
+- Tomar muchas muchas fotografías para después escoger la mejor :sunglasses:
+- Pedir permiso a la gente para tomarle fotos :sweat_smile:
+- Epígrafes cortitos :scissors:
 
 Rawr :dragon_face:
 
