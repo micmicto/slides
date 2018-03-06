@@ -8,7 +8,7 @@
 
 - Relación del periodismo con la fotografía
     - Palabras palabras palabras
-    - Complemento de las palabras
+    - Complemento de las palabras (el fotógrafo como achichincle del reportero)
 
 ---
 
