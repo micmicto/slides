@@ -6,6 +6,12 @@
 
 ---
 
+- Relación del periodismo con la fotografía
+    - Palabras palabras palabras
+    - Complemento de las palabras
+
+---
+
 - Encuadres
 - Planos
 - Ángulos
