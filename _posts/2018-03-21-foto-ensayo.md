@@ -2,7 +2,7 @@
 title: Foto Ensayo
 layout: post
 theme: white
-permalink/foto-ensayo/
+permalink: /foto-ensayo/
 
 slides:
 - title: Uso de la fotografía
