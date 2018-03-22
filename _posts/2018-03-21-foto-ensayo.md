@@ -1,11 +1,11 @@
 ---
-title: Usage
+title: Foto ensayo
 layout: post
 permalink: /usage/
 background: '#0a5'
 
 slides:
- - title: Where are these slides?
+ - title: Uso de la fotografía
    slide-data: You will find all these slides in the Front Matter of respective posts. Search inside <strong>_posts</strong> folder.
      
  - title: How to edit them?
