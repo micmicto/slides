@@ -4,8 +4,8 @@ layout: post
 permalink/foto-ensayo/
 
 slides:
-- title:
-   slide-data:
+- title: Uso de la fotografía
+   slide-data: Imágen objetiva de algún acontecimiento
    background:
 
 ---
