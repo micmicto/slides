@@ -1,7 +1,7 @@
 ---
 title: Foto ensayo
 layout: post
-permalink: /foto-ensayo/
+permalink: /foto/
 background: '#0a5'
 
 slides:
