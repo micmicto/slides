@@ -6,7 +6,12 @@ background: '#0a5'
 
 slides:
  - title: Uso de la fotografía
-   slide-data: You will find all these slides in the Front Matter of respective posts. Search inside <strong>_posts</strong> folder.
+   slide-data: 
+   <ul>
+ <li>Imagen objetiva de algún acontecimiento</li>
+ <li>Ilustración</li>
+ <li>Complemento de las palabras</li>
+</ul>
      
  - title: How to edit them?
    slide-data: All slides are mentioned under <strong>"slides:"</strong> in every post. Change its content for your needs.
