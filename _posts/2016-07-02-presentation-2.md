@@ -5,7 +5,7 @@ permalink: /presentation-2/
 
  
 slides:
- - title: Encuadres
+ - title: Slide 1
    slide-data: Horizontal
    background: "#e74c3c"
      
