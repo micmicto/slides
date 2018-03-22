@@ -1,6 +1,7 @@
 ---
 title: Foto Ensayo
 layout: post
+theme: white
 permalink/foto-ensayo/
 
 slides:
@@ -8,10 +9,11 @@ slides:
    slide-data: Imágen objetiva de algún acontecimiento
    background:
 
+- title: Súper cool
+   slide-data: Características del foto ensayo
+   background:
+   
+- title:
+   slide-data
+   background:
 ---
-
-{% for slide in page.slides %}
-                    
-<section data-background="{% if slide.background %}{{slide.background}}{% else %}{{page.background}}{% endif %}"><h1>{{slide.title}}</h1>{{ slide.slide-data }}</section>
-                    
-{% endfor %}
