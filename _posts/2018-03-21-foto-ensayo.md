@@ -21,25 +21,13 @@ permalink: /fotofoto/
 <!-- Example of nested vertical slides -->
 <section>
     <section>
-        <h2>Vertical Slides</h2>
-        <p>Slides can be nested inside of each other.</p>
-        <p>Use the <em>Space</em> key to navigate through all slides.</p>
-        <br>
-        <a href="#" class="navigate-down">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Down arrow">
-        </a>
+        <h2>Ejemplos</h2>
     </section>
     <section>
-        <h2>Basement Level 1</h2>
-        <p>Nested slides are useful for adding additional detail underneath a high level horizontal slide.</p>
+        <h2><a href="http://inmotion.magnumphotos.com/essay/chernobyl">Chernobyl Legacy</a></h2>
     </section>
     <section>
-        <h2>Basement Level 2</h2>
-        <p>That's it, time to go back up.</p>
-        <br>
-        <a href="#/2">
-            <img width="178" height="238" data-src="https://s3.amazonaws.com/hakim-static/reveal-js/arrow.png" alt="Up arrow" style="transform: rotate(180deg); -webkit-transform: rotate(180deg);">
-        </a>
+        <h2> <a href="https://visura.co/user/HelenRimell/view/the-sisters-of-kamathipura-3">The Sisters of Kamathipura</a></h2>
     </section>
 </section>
 
