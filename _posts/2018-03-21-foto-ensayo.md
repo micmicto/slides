@@ -18,7 +18,18 @@ permalink: /fotofoto/
     </ul>
 </section>
 
+<section>
+    <h2>Ta-da!</h2>
+    <ul>
+     <li>Subjetivo (la opinión del fotógrafo está presente)</li>
+     <li>Es un análisis sobre... algo</li>
+     <li>Observación participante</li>
+     <li>Trabajo prolongado</li>
+    </ul>
+</section>
+
 <!-- Example of nested vertical slides -->
+
 <section>
     <section>
         <h2>Ejemplos</h2>
@@ -29,13 +40,6 @@ permalink: /fotofoto/
     <section>
         <h2> <a href="https://visura.co/user/HelenRimell/view/the-sisters-of-kamathipura-3">The Sisters of Kamathipura</a></h2>
     </section>
-</section>
-
-<section>
-    <h2>Slides</h2>
-    <p>
-        Not a coder? Not a problem. There's a fully-featured visual editor for authoring these, try it out at <a href="http://slides.com" target="_blank">http://slides.com</a>.
-    </p>
 </section>
 
 <section>
