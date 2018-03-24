@@ -14,6 +14,7 @@ permalink: /fotofoto/
     <ul>
      <li>Imagen objetiva de algún acontecimiento</li>
      <li>Ilustración</li>
+     <li>Complemento de las palabras (el fotógrafo como achichincle del reportero)</li>
     </ul>
 </section>
 
