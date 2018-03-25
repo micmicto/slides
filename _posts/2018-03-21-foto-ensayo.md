@@ -2,6 +2,7 @@
 title: Foto ensayo
 layout: post
 permalink: /fotofoto/
+theme: moon
 ---
 
 <section>
