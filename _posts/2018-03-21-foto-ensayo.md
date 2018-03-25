@@ -20,22 +20,8 @@ permalink: /fotofoto/
 
 <section>
     <section  data-background="{{site.baseurl}}/images/nope.gif id="fragments">
-        <h2 class="fragment">NO!</h2>
+        <p class="fragment grow">NO!</h2>
         <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
-
-        <aside class="notes">
-            This slide has fragments which are also stepped through in the notes window.
-        </aside>
-    </section>
-    <section>
-        <h2>Fragment Styles</h2>
-        <p>There's different types of fragments, like:</p>
-        <p class="fragment grow">grow</p>
-        <p class="fragment shrink">shrink</p>
-        <p class="fragment fade-out">fade-out</p>
-        <p class="fragment fade-up">fade-up (also down, left and right!)</p>
-        <p class="fragment current-visible">current-visible</p>
-        <p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
     </section>
 </section>
 
