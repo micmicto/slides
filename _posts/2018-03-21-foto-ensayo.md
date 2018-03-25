@@ -79,10 +79,14 @@ permalink: /fotofoto/
 </section>
 
 <section>
-    <h2>Touch Optimized</h2>
-    <p>
-        Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
-    </p>
+    <h2>Recomendaciones</h2>
+    <ul>
+        <li>Investigación previa</li>
+        <li>Storyboard</li>
+        <li>Tomar muchas fotos</li>
+        <li>Pedir permiso a la gente para robar su alma</li>
+        <li>Epígrafes cortos</li>
+    </ul>
 </section>
 
 <section id="transitions">
