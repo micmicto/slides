@@ -18,10 +18,9 @@ permalink: /fotofoto/
     </ul>
 </section>
 
-<section>
-    <section  data-background="{{site.baseurl}}/images/nope.gif id="fragments">
-        <p class="fragment grow">NO!</h2>
-        <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
+<section data-background="{{site.baseurl}}/images/nope.gif>
+    <section id="fragments">
+        <p class="fragment grow">NO!</p>
     </section>
 </section>
 
