@@ -18,8 +18,8 @@ permalink: /fotofoto/
     </ul>
 </section>
 
-<section data-background="{{site.baseurl}}/images/nope.gif>
-    <section id="fragments">
+<section>
+    <section  data-background="{{site.baseurl}}/images/nope.gif id="fragments">
         <h2 class="fragment">NO!</h2>
         <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
 
