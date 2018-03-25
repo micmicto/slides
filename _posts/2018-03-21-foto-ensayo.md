@@ -68,5 +68,6 @@ permalink: /fotofoto/
     </ul>
 </section>
 
-<section data-background="{{site.baseurl}}/images/queso.gif>
+<section data-background="{{site.baseurl}}/images/queso.gif">
+    <h2></h2>
 </section>
