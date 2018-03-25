@@ -18,17 +18,39 @@ permalink: /fotofoto/
     </ul>
 </section>
 
+<section data-background="{{site.baseurl}}/images/nope.gif>
+    <section id="fragments">
+        <h2 class="fragment">NO!</h2>
+        <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
+
+        <aside class="notes">
+            This slide has fragments which are also stepped through in the notes window.
+        </aside>
+    </section>
+    <section>
+        <h2>Fragment Styles</h2>
+        <p>There's different types of fragments, like:</p>
+        <p class="fragment grow">grow</p>
+        <p class="fragment shrink">shrink</p>
+        <p class="fragment fade-out">fade-out</p>
+        <p class="fragment fade-up">fade-up (also down, left and right!)</p>
+        <p class="fragment current-visible">current-visible</p>
+        <p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
+    </section>
+</section>
+
 <section data-background="{{site.baseurl}}/images/nope.gif">
-        
+    <h3>NO!</h3>
 </section>
 
 <section>
     <h2>Ta-da!</h2>
     <ul>
      <li>Subjetivo (la opinión del fotógrafo está presente)</li>
-     <li>Es un análisis sobre... algo</li>
+     <li>Análisis sobre situaciones, conceptos, personajes</li>
      <li>Observación participante</li>
      <li>Trabajo prolongado</li>
+     <li>Investigación previa</li>
     </ul>
 </section>
 
@@ -47,13 +69,13 @@ permalink: /fotofoto/
 </section>
 
 <section>
-    <h2>Point of View</h2>
-    <p>
-        Press <strong>ESC</strong> to enter the slide overview.
-    </p>
-    <p>
-        Hold down alt and click on any element to zoom in on it using <a href="http://lab.hakim.se/zoom-js">zoom.js</a>. Alt + click anywhere to zoom back out.
-    </p>
+    <h2>Técnica</h2>
+    <ul>
+        <li>Encuadres</li>
+        <li>Planos</li>
+        <li>Ángulos</li>
+        <li>Luz</li>
+    </ul>
 </section>
 
 <section>
@@ -61,29 +83,6 @@ permalink: /fotofoto/
     <p>
         Presentations look great on touch devices, like mobile phones and tablets. Simply swipe through your slides.
     </p>
-</section>
-
-<section>
-    <section id="fragments">
-        <h2>Fragments</h2>
-        <p>Hit the next arrow...</p>
-        <p class="fragment">... to step through ...</p>
-        <p><span class="fragment">... a</span> <span class="fragment">fragmented</span> <span class="fragment">slide.</span></p>
-
-        <aside class="notes">
-            This slide has fragments which are also stepped through in the notes window.
-        </aside>
-    </section>
-    <section>
-        <h2>Fragment Styles</h2>
-        <p>There's different types of fragments, like:</p>
-        <p class="fragment grow">grow</p>
-        <p class="fragment shrink">shrink</p>
-        <p class="fragment fade-out">fade-out</p>
-        <p class="fragment fade-up">fade-up (also down, left and right!)</p>
-        <p class="fragment current-visible">current-visible</p>
-        <p>Highlight <span class="fragment highlight-red">red</span> <span class="fragment highlight-blue">blue</span> <span class="fragment highlight-green">green</span></p>
-    </section>
 </section>
 
 <section id="transitions">
