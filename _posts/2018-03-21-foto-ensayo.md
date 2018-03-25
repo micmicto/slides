@@ -68,12 +68,5 @@ permalink: /fotofoto/
     </ul>
 </section>
 
-
-<section style="text-align: left;">
-    <h1>THE END</h1>
-    <p>
-        - <a href="http://slides.com">Try the online editor</a> <br>
-        - <a href="https://github.com/hakimel/reveal.js">Source code &amp; documentation</a>
-    </p>
+<section data-background="{{site.baseurl}}/images/queso.gif>
 </section>
-
