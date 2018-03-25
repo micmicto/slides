@@ -19,9 +19,7 @@ permalink: /fotofoto/
 </section>
 
 <section data-background="{{site.baseurl}}/images/nope.gif>
-    <section id="fragments">
-        <p class="fragment grow">NO!</p>
-    </section>
+    <h2>NO!</h2
 </section>
 
 <section data-background="{{site.baseurl}}/images/nope.gif">
