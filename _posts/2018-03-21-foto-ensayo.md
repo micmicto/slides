@@ -24,7 +24,7 @@ theme: moon
 </section>
 
 <section>
-    <h2>Ta-da!</h2>
+    <h2>Ta-da! :tada:</h2>
     <ul>
      <li>Subjetivo (la opinión del fotógrafo está presente)</li>
      <li>Análisis sobre situaciones, conceptos, personajes</li>
@@ -78,7 +78,7 @@ theme: moon
 
 <section>
     <ul>
-        <li>Título impactante</li>
+        <li>:tophat:Título impactante</li>
         <li>Cinco a doce fotografías</li>
         <li>Introducción / Contextualización (máximo una cuartilla)</li>
         <li> </li>
