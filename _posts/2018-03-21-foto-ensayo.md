@@ -75,7 +75,7 @@ theme: moon
 
 <section>
     <ul>
-        <li>Cinco fotografías ()</li>
+        <li>Cinco a doce fotografías</li>
         <li>Introducción / Contextualización (máximo una cuartilla)</li>
         <li></li>
     </ul>
