@@ -72,3 +72,11 @@ theme: moon
 <section data-background="{{site.baseurl}}/images/queso.gif">
     <h2></h2>
 </section>
+
+<section>
+    <ul>
+        <li>Cinco fotografías ()</li>
+        <li>Introducción / Contextualización (máximo una cuartilla)</li>
+        <li></li>
+    </ul>
+</section>
