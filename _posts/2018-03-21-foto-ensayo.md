@@ -20,7 +20,7 @@ theme: moon
 </section>
 
 <section data-background="{{site.baseurl}}/images/nope.gif">
-    <h2>NO!</h2>
+    <h1>NO!</h1>
 </section>
 
 <section>
@@ -45,6 +45,9 @@ theme: moon
     </section>
     <section>
         <h2> <a href="https://visura.co/user/HelenRimell/view/the-sisters-of-kamathipura-3">The Sisters of Kamathipura</a></h2>
+    </section>
+    <section>
+        <h2><a href="http://inmotion.magnumphotos.com/essay/merrychristmas">Merry Christmas</a></h2>
     </section>
 </section>
 
@@ -75,8 +78,9 @@ theme: moon
 
 <section>
     <ul>
+        <li>Título impactante</li>
         <li>Cinco a doce fotografías</li>
         <li>Introducción / Contextualización (máximo una cuartilla)</li>
-        <li></li>
+        <li> </li>
     </ul>
 </section>
