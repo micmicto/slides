@@ -81,6 +81,6 @@ theme: moon
         <li>Título impactante</li>
         <li>Cinco a doce fotografías</li>
         <li>Introducción / Contextualización (máximo una cuartilla)</li>
-        <li> </li>
+        <li>30 de mayo</li>
     </ul>
 </section>
